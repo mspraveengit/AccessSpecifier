@@ -8,4 +8,8 @@ public class GrandParent
 		System.out.println("It is a GrandParent Class Business Logic");
 
 	}
+	private void gprentgit() 
+	{
+		System.out.println("GrandParent Class for Git Practice");
+	}
 }
