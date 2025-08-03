@@ -12,8 +12,11 @@ public class GrandParent
 	{
 		System.out.println("GrandParent Class for Git Practice");
 	}
+<<<<<<< HEAD
 	private void gitconflict() 
 	{
 		System.out.println("Conflict of git Practice");
 	}
+=======
+>>>>>>> 3b179b0ff549c68a3621e62200982fe8a8f6f41e
 }
